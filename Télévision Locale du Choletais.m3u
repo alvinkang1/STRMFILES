@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tlc-cholet.com/Theme/CanalCholetTheme/assets/img/logo.jpg",[COLOR darkkhaki]Dailymotion[/COLOR] Télévision Locale du Choletais
+plugin://plugin.video.dailymotion_com/?url=x5aarnv&mode=playLiveVideo 
