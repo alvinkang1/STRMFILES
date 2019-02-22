@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",[COLOR darkkhaki]Dailymotion[/COLOR] EbruTV
+plugin://plugin.video.dailymotion_com/?url=x67n3k1&mode=playLiveVideo
