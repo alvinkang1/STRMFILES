@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mediaobserver.co.ke/wp-content/uploads/2018/05/K24.jpg",[COLOR darkkhaki]Dailymotion[/COLOR] K24 TV
+plugin://plugin.video.dailymotion_com/?url=x6lvncs&mode=playLiveVideo
