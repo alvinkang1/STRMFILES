@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2-ssl.dmcdn.net/qI4DC/x360-png/ae1.jpg",[COLOR darkkhaki]Dailymotion[/COLOR] Top News Albania
+plugin://plugin.video.dailymotion_com/?url=x6inuzo&mode=playLiveVideo 
