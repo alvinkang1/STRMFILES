@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s2.dmcdn.net/vlas7/320x240-png/BX5.jpg",[COLOR darkkhaki]Dailymotion[/COLOR] Wéo Picardie
+plugin://plugin.video.dailymotion_com/?url=x63085w&mode=playLiveVideo
