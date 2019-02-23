@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.new.livestream.com/accounts/00000000000ba1e6/bfd74784-8020-434e-aa36-868de747eea3_170x170.png",[COLOR red]Livestream.com[/COLOR] Telenuovo
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=&event_id=8350561&owner_id=762342&video_id=LIVE
