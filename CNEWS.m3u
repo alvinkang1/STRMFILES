@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s2.dmcdn.net/viMvm/320x240-png/fjY.jpg",[COLOR darkkhaki]Dailymotion[/COLOR] CNEWS
-plugin://plugin.video.dailymotion_com/?url=x3b68jn&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s2.dmcdn.net/viMvm/320x240-png/fjY.jpg",[COLOR darkkhaki]Dailymotion[/COLOR] Dailymotion Live TV
+plugin://plugin.video.dailymotion_com/?url=x61esx&mode=playLiveVideo
