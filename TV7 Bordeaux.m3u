@@ -1,1 +1,4 @@
-x46ancl
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv7.com/bundles/gsoivideochannelfront/images/tv7/logo.jpg",[COLOR darkkhaki]Dailymotion[/COLOR] TV7 Bordeaux
+plugin://plugin.video.dailymotion_com/?url=x46ancl&mode=playLiveVideo
+
