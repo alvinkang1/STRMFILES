@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.new.livestream.com/events/00000000006c846c/3299112a-8efc-488e-9a08-67d049c882f1_640x359.jpg",[COLOR red]Livestream.com[/COLOR] Telemedellin HD
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=&event_id=7111788&owner_id=4608897&video_id=LIVE
