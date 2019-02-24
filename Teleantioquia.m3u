@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.new.livestream.com/accounts/00000000008fda44/998e436c-0c16-4fdd-8d89-6bdc32f8eefc_170x170.png",[COLOR red]Livestream.com[/COLOR] Teleantioquia
+plugin://plugin.video.livestream/?url=%2Flive_now&mode=104&name=&event_id=8459038&owner_id=9427524&video_id=LIVE
