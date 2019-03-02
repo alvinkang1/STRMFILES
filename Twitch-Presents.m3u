@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2IrvZIR",Twitch Presents
+plugin://plugin.video.twitch/?channel_name=twitchpresents&mode=play
