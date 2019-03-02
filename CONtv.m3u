@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2BOGW1A",CONtv - [COLOR gold]VPN US/CANADA ONLY[/COLOR]
+plugin://plugin.video.twitch/?channel_name=contv&mode=play
