@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/2DZKPB0",[COLOR darkorchid]TWITCH[/COLOR] Red Bull TV
+plugin://plugin.video.twitch/?channel_name=redbull&mode=play
