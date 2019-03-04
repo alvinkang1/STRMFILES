@@ -1,1 +1,4 @@
-x61fbhs
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.serbianforum.org/logo_znaci_3/Action%2024.png",[COLOR darkkhaki]Dailymotion[/COLOR] Action 24
+plugin://plugin.video.dailymotion_com/?url=x61fbhs&mode=playLiveVideo
+
