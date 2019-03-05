@@ -1,1 +1,4 @@
-x67cguc
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-iTzL3Ie5S7g/V4Fzz_vzT1I/AAAAAAAACX0/RgCZYdLF9L05ZnvF6uZraFM2qoxmCb8mwCLcB/s1600/nr1-turk-tv-hd2.jpg",[COLOR darkkhaki]Dailymotion[/COLOR] NR1 Türk
+plugin://plugin.video.dailymotion_com/?url=x67cguc&mode=playLiveVideo
+
