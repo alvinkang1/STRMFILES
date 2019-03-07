@@ -1,1 +1,4 @@
-x71to4m
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crtv.cm/wp-content/uploads/2017/10/LOGO_CRTV_sans_texte.png",[COLOR darkkhaki]Dailymotion[/COLOR] CRTV
+plugin://plugin.video.dailymotion_com/?url=x71to4m&mode=playLiveVideo
+
