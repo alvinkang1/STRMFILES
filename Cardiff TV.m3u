@@ -1,1 +1,4 @@
-x5ev9xg
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1031225396811980800/oP-5bJ1q_400x400.jpg",Cardiff TV
+plugin://plugin.video.dailymotion_com/?url=x5ev9xg&mode=playLiveVideo
+
