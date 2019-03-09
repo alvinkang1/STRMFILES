@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.net/wp-content/uploads/2012/11/fenerbahce-spor-kulubu-logo-vector.png",Fenerbahçe TV
+plugin://plugin.video.dailymotion_com/?url=x21oo10&mode=playLiveVideo
