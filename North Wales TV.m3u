@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.northwaleslocal.tv/wp-content/themes/ivy/images/hex/sections/whatson-minw.jpg",North Wales TV
+plugin://plugin.video.dailymotion_com/?url=x702fmv&mode=playLiveVideo
