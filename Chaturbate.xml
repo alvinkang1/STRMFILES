@@ -545,13 +545,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/creamyexo
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
+<title>USA - sugarbooty</title>
+<thumbnail>https://i.imgur.com/mlhbe0Q.png</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url=''):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/sugarbooty/'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -562,13 +562,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url=''):
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
+<title>Groot-Brittannië - Lady Brads</title>
+<thumbnail>https://i.imgur.com/2atUAmt.png</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url=''):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/justwanttoohavefun/'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -579,13 +579,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url=''):
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
+<title>Venezuela - Kim Valentina</title>
+<thumbnail>https://i.imgur.com/jWLKRrP.png</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url=''):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/venezolanacute/'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -596,13 +596,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url=''):
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
+<title>Zweden - rinwhite</title>
+<thumbnail>https://i.imgur.com/25JjpDm.png</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url=''):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/rinwhite/'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -613,13 +613,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url=''):
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
+<title>België - Alicepure</title>
+<thumbnail>https://i.imgur.com/dTJAN0W.png</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url=''):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/alicepure/'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -630,13 +630,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url=''):
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
+<title>Letland - Cathy Cassidy</title>
+<thumbnail>https://i.imgur.com/czwJHIe.png</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url=''):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/cathy_cassidy/'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
