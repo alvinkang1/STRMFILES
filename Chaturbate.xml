@@ -664,13 +664,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/abogailma
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
+<title>Duitsland - emesse</title>
+<thumbnail>https://i.imgur.com/gTiCoU3.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url=''):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/emesse_/'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
