@@ -256,13 +256,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/katiecuti
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
+<title>Letland - stellawells</title>
+<thumbnail>https://i.imgur.com/ctVOmDT.png</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url=''):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/stellawells/'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -273,13 +273,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url=''):
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
+<title>Estland - pamelashineebb</title>
+<thumbnail>https://i.imgur.com/8fkN00a.png</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url=''):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/pamelashineebb/'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -290,13 +290,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url=''):
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
+<title>Rusland - kisankanna</title>
+<thumbnail>https://i.imgur.com/feHGXl4.png</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url=''):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/kisankanna/'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -307,13 +307,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url=''):
 </item>
 
 <item>
-<title></title>
-<thumbnail></thumbnail>
+<title>Letland - elen_pfeiffer</title>
+<thumbnail>https://i.imgur.com/CDPUUii.png</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url=''):
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/elen_pfeiffer/'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
