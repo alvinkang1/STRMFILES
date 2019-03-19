@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>Nederland - siswet19</title>
+<title>Nederland - Elise</title>
 <thumbnail>https://i.imgur.com/HFUXLeX.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
 <regex>
