@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Hy7IHJx.png",[COLOR darkkhaki]Dailymotion[/COLOR] TV3 Malaysia
+plugin://plugin.video.dailymotion_com/?url=x6qp375w&mode=playLiveVideo
+
+
