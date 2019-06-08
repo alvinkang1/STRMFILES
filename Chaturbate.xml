@@ -54,4 +54,41 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/daddy_day
 </regex>
 </item>    
    
+<item>
+<title>Arina</title>
+<fanart>https://i.imgur.com/zogCNWY.png</fanart>
+<thumbnail>https://imgur.com/GdOs13h</thumbnail>   
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/arinamir/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>      
+  
+<item>
+<title>Rita</title>
+<fanart>https://i.imgur.com/akNpwdY.png</fanart>
+<thumbnail>https://imgur.com/BTModtO</thumbnail>   
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/arinamir/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>     
+   
+   https://nl.chaturbate.com/bestassx/
 </items>
