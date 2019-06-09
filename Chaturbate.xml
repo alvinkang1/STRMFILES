@@ -163,7 +163,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/gattabian
 </item>      
    
 <item>
-<title>Julia</title>
+<title>Julia TS</title>
 <fanart>https://i.imgur.com/Gn0cp2X.png</fanart>
 <thumbnail>https://i.imgur.com/jP85lTv.png</thumbnail>   
 <link>$doregex[GetPageUrl]</link>
@@ -217,7 +217,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/joliejosl
 </item>    
 
 <item>
-<title>Nicki</title>
+<title>Nicki TS</title>
 <fanart>https://i.imgur.com/YVg3Q60.png</fanart>
 <thumbnail>https://i.imgur.com/seWOTkZ.png</thumbnail>   
 <link>$doregex[GetPageUrl]</link>
@@ -233,6 +233,60 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/cumshotse
 <cookieJar></cookieJar>
 </regex>
 </item>   
+ 
+<item>
+<title>Olga TS</title>
+<thumbnail>https://i.imgur.com/siN3BeE.png</thumbnail>   
+<fanart>https://i.imgur.com/U71b6yY.png</fanart>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/seductiveolga/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>   
+ 
+<item>
+<title>Dayanna</title>
+<fanart>https://i.imgur.com/8dFoVAQ.png</fanart>
+<thumbnail>https://i.imgur.com/sgQsMK4.png</thumbnail>   
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/cumshotselfsucker/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>   
+
+<item>
+<title>Ashley Myers</title>
+<fanart>https://i.imgur.com/Tbgnh8L.png</fanart>
+<thumbnail>https://i.imgur.com/qcySQRP.png</thumbnail>   
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/cumshotselfsucker/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>   
    
-   
+   https://nl.chaturbate.com/ashlleymyers/
 </items>
