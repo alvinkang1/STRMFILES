@@ -378,4 +378,115 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/chanelant
 </regex>
 </item>   
    
+   
+<item>
+<title>Catty - [COLOR hotpink]♀[/COLOR]</title>
+<thumbnail>https://i.imgur.com/4Xju2Tj.png</thumbnail>   
+<fanart>https://i.imgur.com/KkpLTAE.png</fanart>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/catty190/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>   
+   
+<item>
+<title>Karrin - [COLOR hotpink]♀[/COLOR]</title>
+<thumbnail>https://i.imgur.com/4Xju2Tj.png</thumbnail>   
+<fanart>https://i.imgur.com/YqdLTo1.png</fanart>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/karrin/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>   
+   
+<item>
+<title>Sasha - [COLOR hotpink]♀[/COLOR]</title>
+<thumbnail>https://i.imgur.com/PZcifxz.png</thumbnail>   
+<fanart>https://i.imgur.com/QieL797.png</fanart>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/bringing_happiness/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>     
+ 
+<item>
+<title>Anna Jelly - [COLOR hotpink]♀[/COLOR]</title>
+<thumbnail>https://i.imgur.com/JplIXX9.png</thumbnail>   
+<fanart>https://i.imgur.com/3TV3vYe.png</fanart>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/annajelly/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>    
+   
+<item>
+<title>Jenica - [COLOR darkgreen]⚧[/COLOR]</title>
+<thumbnail>https://i.imgur.com/seWOTkZ.png</thumbnail>     
+<fanart>https://i.imgur.com/dmX8yNu.png</fanart>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/12inchesselfsuckts/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>Clara - [COLOR hotpink]♀[/COLOR]</title>
+<thumbnail>https://i.imgur.com/WjbMx55.png</thumbnail>   
+<fanart>https://i.imgur.com/ifFvjdC.png</fanart>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/clara4love/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>    
+   
+   
+   
 </items>
